@@ -1,0 +1,53 @@
+.Navbar {
+  display: flex;
+  /* width: 100%; */
+  flex-direction: row;
+  justify-content: space-between;
+  align-items: center;
+  padding: 2rem 0;
+  position: relative;
+  z-index: 100;
+}
+
+.Navbar .title {
+  font-family: 'Source Sans Pro';
+  font-style: normal;
+  font-weight: 700;
+  font-size: 32px;
+  line-height: 65px;
+  /* or 204% */
+
+  display: flex;
+  align-items: center;
+  text-align: center;
+  letter-spacing: 4px;
+  text-transform: uppercase;
+}
+
+.Navbar .listBlock {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+  list-style: none;
+  margin: 0 1rem;
+}
+
+.Navbar .listItem {
+  padding-left: 1rem;
+
+  font-family: 'Sen';
+  font-style: normal;
+  font-weight: 400;
+  font-size: 18px;
+  line-height: 27px;
+  /* identical to box height, or 150% */
+
+  display: flex;
+  align-items: center;
+  text-align: center;
+}
+
+.active {
+  color: #37C2CC;
+}

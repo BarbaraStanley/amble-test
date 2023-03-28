@@ -1,0 +1,68 @@
+.section3 {
+  background-image: url('../../assets/section-3.png');
+  background-size: contain;
+  background-position: top;
+  background-repeat: no-repeat;
+  height: 100vh;
+  width: 100%;
+}
+
+.grid {
+  display: grid;
+  gap: 5rem;
+  grid-template-columns: repeat(2, 1fr);
+}
+
+.first .title h1 {
+    font-family: 'Sen';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 2.5rem;
+    line-height: 54px;
+    margin-bottom: 2rem;
+    /* or 135% */
+  
+    display: flex;
+    align-items: center;
+  
+    color: rgba(0, 0, 0, 0.7);
+}
+
+.title p {
+  font-family: 'Sen';
+  font-style: normal;
+  font-weight: 400;
+  font-size: 1.5rem;
+  line-height: 2rem;
+  /* or 150% */
+
+  display: flex;
+  align-items: center;
+
+  color: rgba(0, 0, 0, 0.7);
+}
+
+.cards {
+  display: grid;
+  gap: 5rem;
+  grid-template-columns: repeat(2, 1fr);
+}
+
+.icon {
+  width: 3.2rem;
+  height: 3.2rem;
+  padding: 5px;
+  margin: 1rem;
+  margin-left: 0;
+  border-radius: 10px;
+  background-color: aquamarine;
+}
+
+.card .text h2 {
+  margin-bottom: 1rem;
+  font-size: 2.2rem;
+}
+.card .text p {
+  margin-bottom: 1rem;
+  font-size: 1.5rem;
+}

@@ -1,0 +1,50 @@
+.content {
+  display: flex;
+  height: 100%;
+  flex-direction: row;
+  align-items: center;
+  position: relative;
+  /* gap: 3rem */
+}
+
+.textBlock {
+  margin-top: -15rem;
+  flex-basis: 50%;
+  padding-right: 4rem;
+}
+.textBlock h1 {
+  font-family: 'Sen';
+  font-style: normal;
+  font-weight: 700;
+  font-size: 3.5rem;
+  line-height: 66px;
+  margin-bottom: 2rem;
+  /* or 138% */
+  
+  display: flex;
+  align-items: center;
+  
+  color: rgba(0, 0, 0, 0.7);
+}
+.textBlock p {
+  font-family: 'Sen';
+  font-style: normal;
+  font-weight: 400;
+  font-size: 1.5rem;
+  line-height: 2rem;
+  /* or 139% */
+  
+  display: flex;
+  align-items: center;
+  
+  color: rgba(0, 0, 0, 0.6);
+}
+
+.space {
+  position: absolute;
+  flex-basis: 50%;
+  height: 80vh;
+  width: 50%;
+  right: 0;
+  top: 0
+}
