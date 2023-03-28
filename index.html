@@ -1,0 +1,61 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Contact</title>
+</head>
+<script>
+    function edit_profile(){
+        document.querySelector('.container').style.display = 'none'
+        document.querySelector('.container_edit').style.display = 'block'
+
+        const name = document.querySelector('#name').textContent
+        document.querySelector('#name-input').value = name
+        const email = document.querySelector('#email').textContent
+        document.querySelector('#email-input').value = email
+        const notes = document.querySelector('#notes').textContent
+        document.querySelector('#notes-input').value = notes
+    }
+    function save_profile() {
+        document.querySelector('#name').textContent = document.querySelector('#name-input').value
+        document.querySelector('#email').textContent = document.querySelector('#email-input').value
+        document.querySelector('#notes').textContent = document.querySelector('#notes-input').value
+
+        document.querySelector('.container').style.display = 'block'
+        document.querySelector('.container_edit').style.display = 'none'
+    }
+</script>
+<style>
+    .container {
+        display: flex;
+        flex-direction: column;
+    }
+</style>
+<body>
+    <div class="container">
+        <h1 id="header">Profile</h1>
+        <img src="">
+        Name: <h3 id="name">Tofunmi</h3>
+        <hr />
+        Email : <h3 id="email">tofunmi@bubba.com</h3>
+        <hr />
+        Notes : <h3 id="notes">Loves coding and talking to Barbie</h3>
+        <hr />
+        <button class="button" onclick="edit_profile()">Edit</button>
+    </div>
+    <div class="container_edit">
+        <h1 id="header">Profile</h1>
+        <input id="profile-pic" type="image" size=""/>
+        Name: <input id="name-input" type="text" placeholder="Name"/>
+        <hr />
+        Email : <input id="email-input" type="email" />
+        <hr />
+        Notes : <input id="notes-input" type="text" />
+        <hr />
+        <button class="button" onclick="save_profile()">Save</button>
+    </div>
+
+</body>
+</html>
