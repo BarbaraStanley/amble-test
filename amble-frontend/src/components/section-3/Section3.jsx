@@ -37,7 +37,7 @@ export default function Section3() {
           </div>
         </div>
         <div className={classes.cards}>
-          {cards.map((el) => <Card card={el} />)}
+          {cards.map((el, id) => <Card key={id} card={el} />)}
         </div>
 
       </div>
