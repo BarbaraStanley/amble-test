@@ -11,11 +11,11 @@ export default function Navbar() {
       <div className={classes.title}>AMBLE</div>
       <ul className={classes.listBlock}>
         <li className={`${classes.active} ${classes.listItem}`}>Home</li>
-        <li className={classes.listItem}>About</li>
-        <li className={classes.listItem}>Features</li>
-        <li className={classes.listItem}>Contact</li>
-        <li className={classes.listItem}>Blog</li>
-        <li className={classes.listItem}>Login/Signup</li>
+        <li className={classes.listItem}><a href="#">About</a></li>
+        <li className={classes.listItem}><a href="#">Features</a></li>
+        <li className={classes.listItem}><a href="#">Contact</a></li>
+        <li className={classes.listItem}><a href="#">Blog</a></li>
+        <li className={classes.listItem}><a href="#">Login/SignUp</a></li>
       </ul>
     </div>
   )
