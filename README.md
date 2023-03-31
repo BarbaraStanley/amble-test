@@ -1,4 +1,4 @@
-<img src="icon1.png" align="right" />
+<img src="amble-frontend/src/assets/icon1.png" align="right" />
 
 <p align="center">
   <a href="#Features">Features</a> •
