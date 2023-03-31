@@ -14,7 +14,7 @@
 
 <p align="center">
   
-<a <href= "Homepage"> (<img src="C:\Users\DEBO\Documents\GitHub\amble-test\amble-frontend\src\assets\homepage.png" align="center"</a>)
+<a <href= "Homepage"> (<img src="amble-frontend/src/assets/homepage.png" align="center"</a>)
 </p>      
 
 
