@@ -1,4 +1,4 @@
-<img src="icon.png" align="right" />
+<img src="icon1.png" align="right" />
 
 <p align="center">
   <a href="#Features">Features</a> •
@@ -8,13 +8,13 @@
   <a href="#Usage">Usage</a> •
   <a href="#Contributing">Contributing</a> •
   <a href="#Related Projects">Related Projects</a> •
-  <a href="#licensing">Licensing</a>
-  <a href="#Credits">Credits</a>
+  <a href="#licensing">Licensing</a> •
+  <a href="#Credits">Credits</a> •
 </p>  
 
 <p align="center">
   
-!<a <href= "Homepage"> (<img src="C:\Users\DEBO\Documents\GitHub\amble-test\amble-frontend\src\assets\homepage.png" align="center"</a>)
+<a <href= "Homepage"> (<img src="C:\Users\DEBO\Documents\GitHub\amble-test\amble-frontend\src\assets\homepage.png" align="center"</a>)
 </p>      
 
 
