@@ -13,6 +13,8 @@
   <a href="#licensing">Licensing</a> •
   <a href="#Credits">Credits</a> •
 </p>  
+
+
 [Amble](https://amble-dev.vercel.app/) is a contact reminder project. Amble streamlines your contacts into one centralized hub, making it easy for you to manage and organize your connections. 
 
 Say goodbye to scattered contacts and welcome a more organized and efficient way of managing your connections. Save time, stay productive
