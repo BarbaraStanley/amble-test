@@ -1,3 +1,5 @@
+<p align="center"> Amble</p>
+
 <img src="amble-frontend/src/assets/icon1.png" align="right" />
 
 <p align="center">
@@ -11,14 +13,6 @@
   <a href="#licensing">Licensing</a> •
   <a href="#Credits">Credits</a> •
 </p>  
-
-<p align="center">
-  
-<a <href= "Homepage"> (<img src="amble-frontend/src/assets/homepage.png" align="center"</a>)
-</p>      
-
-
-
 [Amble](https://amble-dev.vercel.app/) is a contact reminder project. Amble streamlines your contacts into one centralized hub, making it easy for you to manage and organize your connections. 
 
 Say goodbye to scattered contacts and welcome a more organized and efficient way of managing your connections. Save time, stay productive
