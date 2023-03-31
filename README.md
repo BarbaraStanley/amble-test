@@ -2,14 +2,14 @@
 
 <p align="center">
   <a href="#Features">Features</a> •
-  <a href="#Features">Getting Started</a>
-  <a href="#Features">Features</a>
-  <a href="#usage">Installation</a> •
-  <a href="#examples">Usage</a> •
-  <a href="#best-practice">Contributing</a> •
-  <a href="#credits">Related Projects</a> •
-  <a href="examples.md">Licensing</a>
-  <a href="#credits">Credits</a>
+  <a href="#Getting Started">Getting Started</a> •
+  <a href="#Development Environment">Development Environment</a> •
+  <a href="#Installation">Installation</a> •
+  <a href="#Usage">Usage</a> •
+  <a href="#Contributing">Contributing</a> •
+  <a href="#Related Projects">Related Projects</a> •
+  <a href="#licensing">Licensing</a>
+  <a href="#Credits">Credits</a>
 </p>  
 
 <p align="center">
