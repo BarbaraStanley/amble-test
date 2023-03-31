@@ -1,8 +1,20 @@
 <img src="icon.png" align="right" />
 
 <p align="center">
+  <a href="#Features">Features</a> •
+  <a href="#Features">Getting Started</a>
+  <a href="#Features">Features</a>
+  <a href="#usage">Installation</a> •
+  <a href="#examples">Usage</a> •
+  <a href="#best-practice">Contributing</a> •
+  <a href="#credits">Related Projects</a> •
+  <a href="examples.md">Licensing</a>
+  <a href="#credits">Credits</a>
+</p>  
+
+<p align="center">
   
-![screenshot](<img src="assets/homepage.png" align="center")
+![screenshot](<img src="C:\Users\DEBO\Documents\GitHub\amble-test\amble-frontend\src\assets\homepage.png" align="center")
 </p>      
 
 
